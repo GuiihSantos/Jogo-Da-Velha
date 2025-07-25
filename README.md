@@ -4,7 +4,7 @@
 
 Este projeto é uma versão interativa e simples do clássico **Jogo da Velha**. O jogo pode ser jogado por **dois jogadores** ou contra um **oponente de IA**, oferecendo uma experiência de jogo completa diretamente no navegador. O objetivo é ser o primeiro a conseguir três de suas marcas (X ou O) em uma linha, coluna ou diagonal.
 
-🔗 Acesse o projeto online
+🔗 Acesse o projeto online   
 https://guiihsantos.github.io/Jogo-Da-Velha/
 
 ## 💻 Funcionalidades do Jogo
