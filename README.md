@@ -30,7 +30,6 @@ https://guiihsantos.github.io/Jogo-Da-Velha/
 
  <div  align='center'>
     <img src="img/img-1.png" width="50%"; margin="0 10px;">
-```
     <img src="img/img-2.png" width="50%"; margin="0 10px;">
     <img src="img/img-3.png" width="50%"; margin="0 10px;">
   </div>
